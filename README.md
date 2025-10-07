@@ -1,4 +1,4 @@
-# 📊 Activities to Cure Boredom Simple API 
+#  Activities to Cure Boredom Simple API 
 
 ### Goal: Display data returned from an api
 
