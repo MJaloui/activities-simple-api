@@ -1,6 +1,4 @@
 //The user will click a button to get an suggested activity.
-//get api key
-//get date
 //get user input in a varibale
 
 
